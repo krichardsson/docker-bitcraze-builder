@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-MAINTAINER Bitcraze <info@bitcraze.io>
+MAINTAINER Kristoffer Richardsson <kristoffer@richardsson.org>
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
 		ca-certificates \
